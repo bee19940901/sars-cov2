@@ -8,6 +8,7 @@ import pandas as pd
 from configs import BLACKLIST, PLATFORM2, PLATFORM3, REF_LEN
 
 
+# 获取所有的覆盖度
 class Worker:
 
     def __init__(self):
